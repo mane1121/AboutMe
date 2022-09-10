@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jose Manuel Soto Quintana</string>
+    <string name="yellow_star">Yellos Star</string>
+    <string name="bio">Hi, my name is José Manuel.
+\n\nViva el rock.
+\n\nYo soy un perro negro y callejero
+\nSin hogar, sin hembra y sin dinero
+\n\nA nadie le importa mi porvenir
+\nEs por eso que tengo que sufrir
+\nTengo que rodar y rodar y rodar y rodar
+\n\nNo tengo conciencia ni tengo hogar
+\n\n\Yo soy un perro negro y callejero
+\nYo soy un perro negro y callejero\n\n</string>
+
+</resources>
