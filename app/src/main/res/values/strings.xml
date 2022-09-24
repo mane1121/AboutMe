@@ -12,5 +12,6 @@
 \n\nNo tengo conciencia ni tengo hogar
 \n\n\Yo soy un perro negro y callejero
 \nYo soy un perro negro y callejero\n\n</string>
-
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
